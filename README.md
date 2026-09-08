@@ -57,7 +57,7 @@ The step is aimed to
 -Allowing outbound internet access
 -Leting multiple VMs talk to each other privately
 -Enhancing predictable, consistent addressing
-![image alt]()
+![image alt](https://github.com/netcater/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LABs-SETUP/blob/7e7a7aa0a435bf4df6b6d63efc20fac3ea1d31fa/netsetting.PNG)
 
   ├── kali-ip-config.png
   └── snapshot-list.png
