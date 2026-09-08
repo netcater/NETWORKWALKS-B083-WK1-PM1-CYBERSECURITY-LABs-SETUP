@@ -43,14 +43,22 @@ This lab gives me an isolated, controlled space to learn and practice cybersecur
 - **Network:** Private NAT Network (isolated)
 
 📷 **Screenshots**
-**Virtualbox**
+*Virtualbox*
 The step is done by downloading it from the official website and then installing it in the window host
 ![image alt](https://github.com/netcater/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LABs-SETUP/blob/2d1dc52f5f64a81da24e181ebebe8786c6cbf59b/kali1.PNG)
 
-**Importing Kali Linux**
+*Importing Kali Linux*
 Step is done by downloading the official kali linux vm from the web browser extracting it and then importing it to the virtual box.
+![image alt](https://github.com/netcater/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LABs-SETUP/blob/04c596f7a632083cf1f131119310e2225fceba37/vm1.PNG)
+
+*NAT Network configaration*
+The step is aimed to 
+-Isolation from your host and the outside world
+-Allowing outbound internet access
+-Leting multiple VMs talk to each other privately
+-Enhancing predictable, consistent addressing
 ![image alt]()
-  ├── nat-network-config.png
+
   ├── kali-ip-config.png
   └── snapshot-list.png
 ```
