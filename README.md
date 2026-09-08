@@ -59,7 +59,12 @@ The step is aimed to
 -Enhancing predictable, consistent addressing
 ![image alt](https://github.com/netcater/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LABs-SETUP/blob/7e7a7aa0a435bf4df6b6d63efc20fac3ea1d31fa/netsetting.PNG)
 
-  ├── kali-ip-config.png
+ *Kali linux IP configuration*
+ The aim is to ensure that the 
+ **IP Address** is 10.0.0.2
+ **DNS** is 8.8.8.8
+ **Gateway** is 10.0.0.1
+ ![image alt](https://github.com/netcater/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LABs-SETUP/blob/0bcf8a9104f1d6807bf124d94bb886ac66a6eafb/net4.PNG)
   └── snapshot-list.png
 ```
 
