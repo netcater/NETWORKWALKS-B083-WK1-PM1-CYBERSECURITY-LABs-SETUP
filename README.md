@@ -2,7 +2,7 @@
 
 📌 **Project Overview**
 
-This repo documents a personal cybersecurity and penetration-testing lab I built using VirtualBox and Kali Linux on a Windows host.
+This repo documents a personal cybersecurity and penetration testing lab I built using VirtualBox and Kali Linux on a Windows host.
 The goal was to create a controlled, isolated environment where I could safely and repeatedly practice network scanning, reconnaissance, vulnerability assessment, and other security-testing skills.
 The lab runs on a private NAT Network, so I can add target machines later without any risk to my host system or any external network.
 
