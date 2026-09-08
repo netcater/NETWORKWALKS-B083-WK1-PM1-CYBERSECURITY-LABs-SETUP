@@ -65,15 +65,24 @@ The step is aimed to
  **DNS** is 8.8.8.8
  **Gateway** is 10.0.0.1
  ![image alt](https://github.com/netcater/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LABs-SETUP/blob/0bcf8a9104f1d6807bf124d94bb886ac66a6eafb/net4.PNG)
-  └── snapshot-list.png
-```
+
+ 🔗 **Tools & Resources**
+-7-Zip: https://7-zip.org/download.html
+-VirtualBox: https://virtualbox.org/wiki/Downloads
+-Kali Linux: https://kali.org/get-kali
+
 
 🔜 **Next Steps**
+-Structured information gathering and target discovery
 - Add a deliberately vulnerable target VM (Metasploitable2 or DVWA) to the network
+- Using different tools to perform real hacking
+- Network and service discovery with result analysis
 - Run initial reconnaissance and port scans (`nmap`) against it
 - Document results in this repo as I go
 
 ⚠️ **Important:** This lab is used only for machines I own or have set up myself inside this isolated network. It is never used against systems I don't own or don't have explicit permission to test.
 
 ---
-Built by Shomari Ismail Kimela — Computer Science and Engineering student
+Built by Shomari Ismail Kimela 
+-Computer Science and Engineering student
+-NETWORKWALKS cybersecurity intern. 
